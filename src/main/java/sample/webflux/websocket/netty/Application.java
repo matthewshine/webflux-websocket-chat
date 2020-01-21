@@ -8,7 +8,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 	scanBasePackages = 
 	{
 		"sample.webflux.websocket.netty.configuration",
-		"sample.webflux.websocket.netty.component"
 	}
 )
 public class Application 

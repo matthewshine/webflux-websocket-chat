@@ -32,6 +32,7 @@ repositories {
 dependencies {
 	compile('org.springframework.boot:spring-boot-starter-webflux')
 	compile('io.projectreactor.ipc:reactor-netty')
+	compile 'com.alibaba:fastjson:1.2.49'
 
 	testCompile('org.springframework.boot:spring-boot-starter-test')
 	testCompile("io.projectreactor:reactor-test")

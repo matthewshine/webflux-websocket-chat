@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/sample-webflux-websocket-netty.iml" filepath="$PROJECT_DIR$/.idea/sample-webflux-websocket-netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample-webflux-websocket-netty_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sample-webflux-websocket-netty_main.iml" group="sample-webflux-websocket-netty" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample-webflux-websocket-netty_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sample-webflux-websocket-netty_test.iml" group="sample-webflux-websocket-netty" />
+    </modules>
+  </component>
+</project>
