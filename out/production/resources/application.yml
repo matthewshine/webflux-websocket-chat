@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: sample-webflux-websocket-netty
+  main:
+    banner-mode: "OFF"    
+
+server:
+  port: 8001
+  
+sample:
+  path: /test
+  send-interval: 500
